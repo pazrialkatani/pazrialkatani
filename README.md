@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=pazrialkatani&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=pazrialkatani&icon=9&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=pazrialkatani&icon=9&color=32CD32)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/pazrialkatani) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/pazrialkatani) [![Saweria](https://img.shields.io/badge/Saweria-FA7E1E?style=for-the-badge&logo=coffeescript&logoColor=white)](https://saweria.co/pazrialkatani)
